@@ -1,0 +1,24 @@
+{
+  "name": "qa-ai-suit-30",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkitiveAi/qa-ai-suit-30.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ThinkitiveAi/qa-ai-suit-30/issues"
+  },
+  "homepage": "https://github.com/ThinkitiveAi/qa-ai-suit-30#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1"
+  }
+}
