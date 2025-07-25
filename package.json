@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ThinkitiveAi/qa-ai-suit-30.git"
@@ -19,6 +17,7 @@
   },
   "homepage": "https://github.com/ThinkitiveAi/qa-ai-suit-30#readme",
   "devDependencies": {
-    "@playwright/test": "^1.54.1"
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
   }
 }
